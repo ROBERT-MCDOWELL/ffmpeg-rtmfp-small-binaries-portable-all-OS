@@ -38,7 +38,7 @@ libpostproc    55.  0.100 / 55.  0.100
 
 #### Big thanks to:
 Roger Pack for all the nice work (Contact him if you need more options, donation welcome)
-- https://sourceforge.net/projects/ffmpegwindowsbi/reviews
+- https://github.com/rdp/ffmpeg-windows-build-helpers
 - http://rdp.inet2.org
 
 Thomas Jammet who developed librtmfp (UDP encrypted protocol for web multicast and peer to peer, donation welcome)
