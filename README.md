@@ -1,6 +1,6 @@
 # ffmpeg-rtmfp-small-binaries-portable-all-OS
 Series of smallest ffmpeg 4.1 binaries compiled with rtmfp and major encoders/decoders
-as static and portable for all major operating system
+as static and portable for all major operating systems
 
 - ffmpeg32L:      Linux 32bit
 - ffmpeg64L:      Linux 64bit
