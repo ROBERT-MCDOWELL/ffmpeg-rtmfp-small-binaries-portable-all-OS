@@ -1,4 +1,4 @@
-# ffmpeg-rtmfp-small-binaries-portable-all-OS
+### ffmpeg-rtmfp-small-binaries-portable-all-OS
 Series of smallest ffmpeg 4.1 binaries compiled with rtmfp and major encoders/decoders
 as static and portable for all major operating systems
 
@@ -19,13 +19,14 @@ configuration:
 
    --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 
   --disable-debug --disable-w32threads --enable-zlib --enable-libv4l2 --enable-libxcb --enable-libxcb-shm --enable-libxcb-xfixes
-  --enable-libxcb-shape --disable-autodetect --enable-librtmfp --enable-libmp3lame --extra-libs=-lm --extra-libs=-lpthread 
-  --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf 
+  --enable-libxcb-shape --disable-autodetect --enable-librtmfp --enable-libmp3lame --extra-libs=-lm 
+  --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC 
+  --extra-cflags=-DCACA_STATIC --enable-amf 
   --disable-libmfx --enable-gpl --enable-libx264 --enable-libx265 --enable-avresample --extra-cflags='-mtune=generic' 
   --extra-cflags=-O3 --enable-static --disable-shared 
   --prefix=/home/rdp/ffmpeg-windows-build-helpers/sandbox/cross_compilers/native
   
-  libavutil      56.  7.100 / 56.  7.100
+  libavutil      56.  7.100 / 56.  7.100\n
   libavcodec     58.  9.100 / 58.  9.100
   libavformat    58.  7.100 / 58.  7.100
   libavdevice    58.  0.101 / 58.  0.101
