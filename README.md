@@ -13,7 +13,7 @@ ON THE RAILS: IOS, Android
 #### Big thanks to:
 
 Roger Pack for all the nice work (Contact him if you need more options, donation welcome)
-https://sourceforge.net/projects/ffmpegwindowsbi/reviews
+- https://sourceforge.net/projects/ffmpegwindowsbi
 
 Thomas Jammet who developed librtmfp (UDP encrypted protocol for web multicast and peer to peer, donation welcome)
-https://github.com/MonaSolutions/librtmfp
+- https://github.com/MonaSolutions/librtmfp
